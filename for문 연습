@@ -1,0 +1,18 @@
+/*반복문 문법
+
+while(조건)
+	반복 실행 영역
+}
+ 
+ex-1--
+while (true){ // 참 일 경우 반복
+	System.out.println(Coding Everdody);
+}
+ex-2--
+int i = 0; // i라는 변수를 0으로 선언
+
+while(i < 10){ // i가 10보다 작을때 반복
+	System.out.println("Coding Everdody" + i);// i의 값에 1을 더한다
+	
+	i++; // i=i+1; 것과 같다
+}*/
